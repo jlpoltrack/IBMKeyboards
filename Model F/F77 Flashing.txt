@@ -1,0 +1,24 @@
+F77 Firmware
+
+Download package from Model F Website, Extract
+
+Open Pandrew Utility
+Enter Bootloader
+
+One Time > 
+
+Device Manager
+Install Driver
+Atmel Flip Folder (x86)
+
+< One Time
+
+Run Batch Script
+f77 ansi block1 Ins Del etc
+Edge > vial.rocks
+
+Done | Ctrl > Ctrl
+Done | Num Lock > Fn
+Done | Win
+
+Custom | F5, F12
