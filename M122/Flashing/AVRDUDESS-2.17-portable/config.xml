@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <configVersion>1</configVersion>
+  <updateCheck>1718751732</updateCheck>
+  <skipVersion>
+    <Major>0</Major>
+    <Minor>0</Minor>
+  </skipVersion>
+  <toolTips>true</toolTips>
+  <avrdudeLoc />
+  <avrdudeConfLoc />
+  <avrSizeLoc />
+  <windowLocation>
+    <X>2108</X>
+    <Y>115</Y>
+  </windowLocation>
+  <language>english</language>
+  <hiddenMCUs />
+  <hiddenProgrammers />
+  <previousSettings>
+    <programmer>usbasp-clone</programmer>
+    <mcu>m32u4</mcu>
+    <port />
+    <baud />
+    <bitclock />
+    <flashFile>C:\Users\jlp\Downloads\M122\Flashing\AVRDUDESS-2.17-portable\BootLoader.hex</flashFile>
+    <flashFormat>a</flashFormat>
+    <flashOp>w</flashOp>
+    <EEPROMFile />
+    <EEPROMFormat>a</EEPROMFormat>
+    <EEPROMOp>w</EEPROMOp>
+    <force>false</force>
+    <disableVerify>false</disableVerify>
+    <disableFlashErase>false</disableFlashErase>
+    <eraseFlashAndEEPROM>true</eraseFlashAndEEPROM>
+    <doNotWrite>false</doNotWrite>
+    <lfuse>0xFF</lfuse>
+    <hfuse>0xD8</hfuse>
+    <efuse>0xFB</efuse>
+    <setFuses>false</setFuses>
+    <lockBits>0xFF</lockBits>
+    <setLock>false</setLock>
+    <additional />
+    <verbosity>0</verbosity>
+    <name />
+  </previousSettings>
+  <usePreviousSettings>true</usePreviousSettings>
+  <windowSize>
+    <Width>1110</Width>
+    <Height>1055</Height>
+  </windowSize>
+  <checkForUpdates>true</checkForUpdates>
+</ConfigData>
